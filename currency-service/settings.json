@@ -1,0 +1,14 @@
+{
+    "banks": [
+        {
+            "id": 1,
+            "name": "NBU",
+            "url": "https://nbu.uz/jismoniy-shaxslar-valyutalar-kursi"
+        },
+        {
+            "id": 2,
+            "name": "Aloqabank",
+            "url": "https://nbu.uz/jismoniy-shaxslar-valyutalar-kursi"
+        }
+    ]
+}
